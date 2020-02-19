@@ -1,0 +1,91 @@
+h1 {
+    font-size: 3rem;
+    font-weight: 900;
+    text-align: center;
+    letter-spacing: -.15rem;
+    line-height: 1;
+    margin: 1rem 0 2rem;
+}
+
+html {
+  font-family: sans-serif; /* 1 */
+}
+
+/**
+ * Remove default margin.
+ */
+
+body {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+.img-circle {
+    border-radius: 50%;
+    width: 10%;
+    height: 10%;
+}
+
+.profil {
+    text-align: center;
+}
+
+.section {
+    border-style: thick solid #eeeeee;
+    border-top: thick solid #eeeeee;
+    padding-top: 0.2em;
+    padding-bottom: 0.5em;
+
+}
+
+.section h2 {
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 0;
+    letter-spacing: -.05rem;
+     border-style: thick solid #eeeeee;
+     border-bottom: thick solid #eeeeee;
+         padding-bottom: 0.8em;
+
+}
+
+.profession {
+    font-weight: 300;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    letter-spacing: -.05rem;
+    border-style: thick solid #eeeeee;
+    border-bottom: thick solid #eeeeee;
+    padding-bottom: 0.2em;
+
+}
+
+
+.resume {
+     padding-top: 0.5em;
+     padding-bottom: 1em;
+     column-count: 2;
+     column-gap: 5em;
+     margin-right: -10em;
+}
+
+
+.info {
+    line-height:0.5em;
+    padding-top:0.2em;
+}
+
+.contact {
+    column-span: all;
+}
+
+.emph {
+    color: #e67e22;
+    font-style: italic;
+}
+
+.dates {
+    font-weight: 700;
+
+}
